@@ -1,6 +1,6 @@
 # Hi there, I'm Dante Karabourniotis 👋
 
-![Profile Banner](https://github.com/your-username/assets-repo-name/raw/main/path/to/your/image.png)
+![Profile Banner](https://github.com/DanteKara/assets-repo-name/raw/main/path/to/your/coming soon.png)
 
 I'm a Junior Programmer with a passion for AI and Automation. I love working on projects that involve AI, Automation.
 
