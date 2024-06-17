@@ -30,7 +30,7 @@ I'm a Junior Programmer with a passion for AI and Automation. I love working on 
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/dante-karabourniotis-841687116/)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2)](https://twitter.com/your-twitter-username)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2)](https://x.com/dantekara?s=21&t=YrG-w81en6FspoVXBBD82w)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=Internet-Explorer)](https://your-portfolio-link.com)
 
 ---
