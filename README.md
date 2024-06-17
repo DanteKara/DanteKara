@@ -29,8 +29,7 @@ I'm a Junior Programmer with a passion for AI and Automation. I love working on 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/your-linkedin-username/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/dante-karabourniotis-841687116/)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2)](https://twitter.com/your-twitter-username)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=Internet-Explorer)](https://your-portfolio-link.com)
 
