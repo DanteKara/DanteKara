@@ -16,7 +16,6 @@ I'm a Junior Programmer with a passion for AI and Automation. I love working on 
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 
-
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
