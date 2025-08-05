@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://github.com/DanteKara/assets-repo-name/raw/main/path/to/your/image.png)
 
-I'm a Junior Programmer with a passion for AI and Automation. I love working on projects that involve AI, Automation.
+I'm a Junior Programmer with a passion for AI and Automation. I currently working on Networks Automation projects.
 
 ## 🚀 About Me
 
