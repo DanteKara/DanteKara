@@ -6,8 +6,8 @@ I'm a Junior Programmer with a passion for AI and Automation. I currently workin
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on Options Technology as a Automation Engineer
-- 🌱 I’m currently learning Python, React, JavaScript, Networks.
+- 🔭 I’m currently working on Options Technology as a Full stack Automation network engineer
+- 🌱 I’m currently learning Python, React, JavaScript, Ansible, Networks.
 
 ## 🛠️ Skills
 
