@@ -9,10 +9,10 @@
 
 ## 🚀 About Me
 
-- 🔭 I work at Options Technology as a full stack Network Automation Engineer.
-- 🧠 I focus on AI assisted tooling, network automation and internal NetOps platforms.
-- 🌱 Always sharpening Python, React, Ansible and modern networking.
-- ⚙️ I work a lot with Fortinet, Arista EOS and Batfish for network verification and automation.
+- 🔭 I work at Options Technology as a full stack Network Automation Engineer.  
+- 🧠 I focus on AI assisted tooling, network automation and internal NetOps platforms.  
+- 🌱 Always sharpening Python, React, Ansible and modern networking.  
+- ⚙️ I work a lot with Fortinet, Arista EOS and Batfish for network verification and automation.  
 
 ---
 
@@ -52,9 +52,9 @@
 
 **Vendors and verification**
 
-- **Fortinet**: FortiGate, FortiManager APIs, automation workflows  
-- **Arista EOS**: eAPI, automation, network state extraction  
-- **Batfish**: snapshot based network verification and ACL analysis  
+- **Fortinet** · FortiGate, FortiManager APIs, automation workflows  
+- **Arista EOS** · eAPI, automation, network state extraction  
+- **Batfish** · snapshot based network verification and ACL analysis  
 
 ---
 
@@ -67,6 +67,8 @@
   />
 </p>
 
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -75,6 +77,8 @@
     alt="Dante's GitHub trophies"
   />
 </p>
+
+---
 
 ## 📊 Most Used Languages
 
@@ -89,8 +93,8 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/dante-karabourniotis-841687116/)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=twitter&logoColor=1DA1F2)](https://x.com/dantekara?s=21&t=YrG-w81en6FspoVXBBD82w)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dante-karabourniotis-841687116/)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/dantekara?s=21&t=YrG-w81en6FspoVXBBD82w)
 
 ---
 
