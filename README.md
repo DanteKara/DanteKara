@@ -94,7 +94,7 @@
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dante-karabourniotis-841687116/)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/dantekara?s=21&t=YrG-w81en6FspoVXBBD82w)
+[![X](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white)](https://x.com/dantekara?s=21&t=YrG-w81en6FspoVXBBD82w)
 
 ---
 
